@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shad 👋
 
-<!--
-**shadjonescode/shadjonescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused CS student  
+Python • FastAPI • PostgreSQL • AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Building **Tech Fix**, an AI-powered troubleshooting platform  
+- Learning backend engineering, cloud infra, and scalable APIs  
+- Focused on Python, databases, and AWS fundamentals  
+
+---
+
+## Tech I Use
+Python · FastAPI · PostgreSQL · Docker · Git · Linux · AWS
+
+---
+
+## Contact
+**Email:** shadjones.dev@gmail.com
