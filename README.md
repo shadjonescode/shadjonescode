@@ -18,4 +18,4 @@ Python · FastAPI · PostgreSQL · Docker · Git · Linux · AWS
 ---
 
 ## Contact
-**Email:** shadjones.dev@gmail.com
+**Email:** shadjones.code@gmail.com
